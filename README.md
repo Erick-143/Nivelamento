@@ -23,7 +23,7 @@ Ter noção de espaço ao estacionar é difícil e arriscado para o para-choque.
 
 ---
 
-## 🔌 Guia de Montagem (Hardware)
+## Guia de Montagem (Hardware)
 1.  **Energia:** Conecte o pino `5V` do Arduino na linha positiva (+) da protoboard e o `GND` na linha negativa (-).
 2.  **Sensor Ultrassônico:** * Pino `VCC` no positivo (+).
     * Pino `GND` no negativo (-).
